@@ -1,0 +1,10 @@
+version: '3.0'
+services:
+  flask:
+    image: Car_Price_Prediction
+    build: 
+      context: .
+      dockerfile: .Dockerfile
+    volumes:
+      - ./code:/root/code
+      - ./.vscode-server:/root/.vscode-server

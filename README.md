@@ -1,7 +1,5 @@
 # Machine_Learning-Car-Price-Prediction
 
-Ashmita Phuyal - 124454
-
 Overview
 
 - The car data analysis and prediction is performed in Car Prediction Analysis.ipynb.

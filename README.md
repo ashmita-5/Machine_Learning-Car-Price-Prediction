@@ -15,6 +15,3 @@ Web Details
 Screenshot 
 
 ![Screenshot from 2023-09-05 20-04-36](https://github.com/ashmitaphuyal/Machine_Learning-Car-Price-Prediction/assets/32629216/f8996805-5dae-4f63-932a-04d17311a710)
-
-Note :
-I have previously uploaded my projects within the deadline but when re-running the docker, I faced some issues. So, Updated the file related to docker. 
